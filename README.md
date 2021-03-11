@@ -1,3 +1,3 @@
 # sharpen-vs-code
 
-VS Code 磨刀日记
+VS Code 磨刀记
