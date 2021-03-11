@@ -1,0 +1,16 @@
+{
+  "name": "sharpen-vs-code",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/lsbbd/sharpen-vs-code.git",
+  "author": "lsbbd <1206261187@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.12.2"
+  }
+}
