@@ -30,8 +30,3 @@ jobs:
           name: dist
           path: |
             docs/.vitepress/dist
-
-      - name: Download artifacts
-        uses: actions/download-artifact@v2
-        with:
-          name: dist
